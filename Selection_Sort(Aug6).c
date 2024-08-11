@@ -28,11 +28,10 @@ int main(){
 		a[index]=temp;
 	}
 			}
-			printf("Values after selection sort");
+			printf("Values after selection sort : ");
 			for(i=0;i<n;i++){
 			
 			printf("%d ",a[i]);
 		}
 		}
 	
-
