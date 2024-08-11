@@ -1,7 +1,6 @@
 //merge sort
+
 #include <stdio.h>
-
-
 void merge(int a[], int beg, int mid, int end, int ascending) {
     int i, j, k;
     int n1 = mid - beg + 1;
