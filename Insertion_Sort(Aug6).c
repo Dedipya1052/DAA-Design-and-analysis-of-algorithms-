@@ -5,7 +5,7 @@ int main(){
 	int a[20],i,j,temp,n,key,k;
 	printf("Enter number of elements you want to input : ");
 	scanf("%d",&n);
-	printf("Enter numbers");
+	printf("Enter numbers : ");
 	for(i=0;i<n;i++)
 	{
 		scanf("%d",&a[i]);
